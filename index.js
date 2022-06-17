@@ -15,5 +15,5 @@ const person = {
 
 
 for (const personKey in person) {
-  console.log(person[personKey]);
+  console.log('key: --->', person[personKey]);
 }
